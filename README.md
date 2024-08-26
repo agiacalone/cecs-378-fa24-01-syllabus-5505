@@ -66,7 +66,7 @@ Homework and lab assignments will be assigned approximately every other week, an
 ### Tentative Class Schedule
 
 
-|  Week      | Subject                                             |
+| Week       | Subject                                             |
 |------------|-----------------------------------------------------|
 | Aug 26     | Intro to Computer Security (Ch 1)                   |
 | Sep  2     | Intro, ctd.                                         |
