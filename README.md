@@ -31,14 +31,14 @@ By the conclusion of this course, students will be able to:
 * Know how to design and analyze a secure computer system in general
 * Have a solid understanding of current, topical issues in computer security
 
-| Grading           |      | | Grade Scale |    |
-|-------------------|------|-|-------------|----|
-| Homework and Labs | 35%  | | >= 90%      | A  |
-| Exam One          | 20%  | | 80% - 89%   | B  |
-| Exam Two          | 20%  | | 70% - 79%   | C  |
-| Final Exam        | 25%  | | 60% - 69%   | D  |
-|                   |      | | < 60%       | F  |
-| **Total**         | 100% | |             |    |
+| Grading           |      | | Grade Scale |   |
+|-------------------|------|-|-------------|---|
+| Homework and Labs | 35%  | | >= 90%      | A |
+| Exam One          | 20%  | | 80% - 89%   | B |
+| Exam Two          | 20%  | | 70% - 79%   | C |
+| Final Exam        | 25%  | | 60% - 69%   | D |
+|                   |      | | < 60%       | F |
+| **Total**         | 100% | |             |   |
 
 ### Exams
 
