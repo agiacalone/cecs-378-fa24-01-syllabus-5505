@@ -10,7 +10,7 @@
 
 | Instructor        | Email                       | Office  | Office Hours             |
 |-------------------|-----------------------------|---------|--------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | 10:00 - 11:00 AM Mon-Thu |
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | 10:00 - 11:00 AM Mo,Tu,We,Th |
 
 ### Required Textbook
 
